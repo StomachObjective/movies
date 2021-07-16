@@ -127,3 +127,7 @@ footer{
 footer a:hover{
     cursor: pointer;
 }
+
+#logo{
+    padding:8px
+}
